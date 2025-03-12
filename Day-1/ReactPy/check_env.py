@@ -1,3 +1,6 @@
+# for create an environment
+# python -m venv myenv
+
 # import os module
 import os
 
