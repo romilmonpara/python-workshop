@@ -10,7 +10,7 @@ time.sleep(5)
 username=driver.find_element(By.NAME,"username")
 password=driver.find_element(By.NAME,"password")
 
-username.send_keys("---Dummy Instagram Account---")
+username.send_keys("---Dummy Instagram Account Id---")
 password.send_keys("-----Password-----")
 
 password.send_keys(Keys.ENTER)
